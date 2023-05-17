@@ -1,0 +1,78 @@
+CRITICAL - 2023-02-16 05:54:17 --> Object of class CodeIgniter\Email\Email could not be converted to string
+in APPPATH\Controllers\Home.php on line 195.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->enquiry_message()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-16 06:12:50 --> Object of class CodeIgniter\Email\Email could not be converted to string
+in APPPATH\Controllers\Home.php on line 195.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->enquiry_message()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-16 06:15:28 --> Object of class CodeIgniter\Email\Email could not be converted to string
+in APPPATH\Controllers\Home.php on line 195.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->enquiry_message()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-16 06:19:03 --> Object of class CodeIgniter\Email\Email could not be converted to string
+in APPPATH\Controllers\Home.php on line 195.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->enquiry_message()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-16 06:26:38 --> Object of class CodeIgniter\Email\Email could not be converted to string
+in APPPATH\Controllers\Home.php on line 195.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->enquiry_message()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-16 06:32:36 --> Object of class CodeIgniter\Email\Email could not be converted to string
+in APPPATH\Controllers\Home.php on line 195.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->enquiry_message()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-16 06:32:58 --> Object of class CodeIgniter\Email\Email could not be converted to string
+in APPPATH\Controllers\Home.php on line 195.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->enquiry_message()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-16 06:34:15 --> Object of class CodeIgniter\Email\Email could not be converted to string
+in APPPATH\Controllers\Home.php on line 195.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->enquiry_message()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-16 06:35:19 --> Object of class CodeIgniter\Email\Email could not be converted to string
+in APPPATH\Controllers\Home.php on line 195.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->enquiry_message()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-16 06:37:02 --> Object of class CodeIgniter\Email\Email could not be converted to string
+in APPPATH\Controllers\Home.php on line 195.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->enquiry_message()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-16 06:37:26 --> Object of class CodeIgniter\Email\Email could not be converted to string
+in APPPATH\Controllers\Home.php on line 195.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->enquiry_message()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-16 06:39:30 --> Object of class CodeIgniter\Email\Email could not be converted to string
+in APPPATH\Controllers\Home.php on line 195.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->enquiry_message()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-16 06:42:15 --> Object of class CodeIgniter\Email\Email could not be converted to string
+in APPPATH\Controllers\Home.php on line 195.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->enquiry_message()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

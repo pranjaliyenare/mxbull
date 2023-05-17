@@ -1,0 +1,165 @@
+ERROR - 2023-02-20 00:05:17 --> Email: sendWithSmtp throwed ErrorException: fsockopen(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php:1863
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fsockopen(): ph...', 'C:\\xampp\\htdocs...', 1863, Array)
+#1 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1863): fsockopen('tls://mail.mxbu...', 465, 0, 'php_network_get...', 50)
+#2 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1777): CodeIgniter\Email\Email->SMTPConnect()
+#3 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1662): CodeIgniter\Email\Email->sendWithSmtp()
+#4 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1560): CodeIgniter\Email\Email->spoolEmail()
+#5 C:\xampp\htdocs\MX_Bull_International\app\Controllers\Home.php(222): CodeIgniter\Email\Email->send()
+#6 C:\xampp\htdocs\MX_Bull_International\system\CodeIgniter.php(927): App\Controllers\Home->enquiry_message()
+#7 C:\xampp\htdocs\MX_Bull_International\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\MX_Bull_International\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\MX_Bull_International\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-02-20 00:05:17 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-02-20 00:05:17 --> 
+ERROR - 2023-02-20 00:05:59 --> Email: sendWithSmtp throwed ErrorException: fsockopen(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php:1863
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fsockopen(): ph...', 'C:\\xampp\\htdocs...', 1863, Array)
+#1 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1863): fsockopen('tls://mail.mxbu...', 465, 0, 'php_network_get...', 50)
+#2 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1777): CodeIgniter\Email\Email->SMTPConnect()
+#3 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1662): CodeIgniter\Email\Email->sendWithSmtp()
+#4 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1560): CodeIgniter\Email\Email->spoolEmail()
+#5 C:\xampp\htdocs\MX_Bull_International\app\Controllers\Home.php(222): CodeIgniter\Email\Email->send()
+#6 C:\xampp\htdocs\MX_Bull_International\system\CodeIgniter.php(927): App\Controllers\Home->enquiry_message()
+#7 C:\xampp\htdocs\MX_Bull_International\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\MX_Bull_International\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\MX_Bull_International\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-02-20 00:05:59 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-02-20 00:05:59 --> 
+ERROR - 2023-02-20 00:10:35 --> Email: sendWithSmtp throwed ErrorException: fsockopen(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php:1863
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fsockopen(): ph...', 'C:\\xampp\\htdocs...', 1863, Array)
+#1 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1863): fsockopen('tls://mail.mxbu...', 465, 0, 'php_network_get...', 50)
+#2 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1777): CodeIgniter\Email\Email->SMTPConnect()
+#3 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1662): CodeIgniter\Email\Email->sendWithSmtp()
+#4 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1560): CodeIgniter\Email\Email->spoolEmail()
+#5 C:\xampp\htdocs\MX_Bull_International\app\Controllers\Home.php(222): CodeIgniter\Email\Email->send()
+#6 C:\xampp\htdocs\MX_Bull_International\system\CodeIgniter.php(927): App\Controllers\Home->enquiry_message()
+#7 C:\xampp\htdocs\MX_Bull_International\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\MX_Bull_International\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\MX_Bull_International\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-02-20 00:10:35 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-02-20 00:10:35 --> 
+ERROR - 2023-02-20 00:14:47 --> Email: sendWithSmtp throwed ErrorException: fsockopen(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php:1863
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fsockopen(): ph...', 'C:\\xampp\\htdocs...', 1863, Array)
+#1 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1863): fsockopen('tls://mail.mxbu...', 465, 0, 'php_network_get...', 50)
+#2 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1777): CodeIgniter\Email\Email->SMTPConnect()
+#3 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1662): CodeIgniter\Email\Email->sendWithSmtp()
+#4 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1560): CodeIgniter\Email\Email->spoolEmail()
+#5 C:\xampp\htdocs\MX_Bull_International\app\Controllers\Home.php(222): CodeIgniter\Email\Email->send()
+#6 C:\xampp\htdocs\MX_Bull_International\system\CodeIgniter.php(927): App\Controllers\Home->enquiry_message()
+#7 C:\xampp\htdocs\MX_Bull_International\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\MX_Bull_International\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\MX_Bull_International\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-02-20 00:14:47 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-02-20 00:14:47 --> 
+ERROR - 2023-02-20 22:55:22 --> Email: sendWithSmtp throwed ErrorException: fsockopen(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php:1863
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fsockopen(): ph...', 'C:\\xampp\\htdocs...', 1863, Array)
+#1 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1863): fsockopen('tls://mail.mxbu...', 465, 0, 'php_network_get...', 50)
+#2 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1777): CodeIgniter\Email\Email->SMTPConnect()
+#3 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1662): CodeIgniter\Email\Email->sendWithSmtp()
+#4 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1560): CodeIgniter\Email\Email->spoolEmail()
+#5 C:\xampp\htdocs\MX_Bull_International\app\Controllers\Home.php(222): CodeIgniter\Email\Email->send()
+#6 C:\xampp\htdocs\MX_Bull_International\system\CodeIgniter.php(927): App\Controllers\Home->enquiry_message()
+#7 C:\xampp\htdocs\MX_Bull_International\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\MX_Bull_International\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\MX_Bull_International\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-02-20 22:55:22 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-02-20 22:55:22 --> 
+ERROR - 2023-02-20 22:56:14 --> Email: sendWithSmtp throwed ErrorException: fsockopen(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php:1863
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fsockopen(): ph...', 'C:\\xampp\\htdocs...', 1863, Array)
+#1 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1863): fsockopen('tls://mail.mxbu...', 465, 0, 'php_network_get...', 50)
+#2 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1777): CodeIgniter\Email\Email->SMTPConnect()
+#3 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1662): CodeIgniter\Email\Email->sendWithSmtp()
+#4 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1560): CodeIgniter\Email\Email->spoolEmail()
+#5 C:\xampp\htdocs\MX_Bull_International\app\Controllers\Home.php(222): CodeIgniter\Email\Email->send()
+#6 C:\xampp\htdocs\MX_Bull_International\system\CodeIgniter.php(927): App\Controllers\Home->enquiry_message()
+#7 C:\xampp\htdocs\MX_Bull_International\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\MX_Bull_International\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\MX_Bull_International\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-02-20 22:56:14 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-02-20 22:56:14 --> 
+ERROR - 2023-02-20 23:08:54 --> Email: sendWithSmtp throwed ErrorException: fsockopen(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php:1863
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fsockopen(): ph...', 'C:\\xampp\\htdocs...', 1863, Array)
+#1 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1863): fsockopen('tls://mail.mxbu...', 465, 0, 'php_network_get...', 50)
+#2 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1777): CodeIgniter\Email\Email->SMTPConnect()
+#3 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1662): CodeIgniter\Email\Email->sendWithSmtp()
+#4 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1560): CodeIgniter\Email\Email->spoolEmail()
+#5 C:\xampp\htdocs\MX_Bull_International\app\Controllers\Home.php(222): CodeIgniter\Email\Email->send()
+#6 C:\xampp\htdocs\MX_Bull_International\system\CodeIgniter.php(927): App\Controllers\Home->enquiry_message()
+#7 C:\xampp\htdocs\MX_Bull_International\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\MX_Bull_International\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\MX_Bull_International\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-02-20 23:08:54 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-02-20 23:08:54 --> 
+ERROR - 2023-02-20 23:11:15 --> Email: sendWithSmtp throwed ErrorException: fsockopen(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php:1863
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fsockopen(): ph...', 'C:\\xampp\\htdocs...', 1863, Array)
+#1 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1863): fsockopen('tls://mail.mxbu...', 465, 0, 'php_network_get...', 50)
+#2 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1777): CodeIgniter\Email\Email->SMTPConnect()
+#3 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1662): CodeIgniter\Email\Email->sendWithSmtp()
+#4 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1560): CodeIgniter\Email\Email->spoolEmail()
+#5 C:\xampp\htdocs\MX_Bull_International\app\Controllers\Home.php(222): CodeIgniter\Email\Email->send()
+#6 C:\xampp\htdocs\MX_Bull_International\system\CodeIgniter.php(927): App\Controllers\Home->enquiry_message()
+#7 C:\xampp\htdocs\MX_Bull_International\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\MX_Bull_International\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\MX_Bull_International\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-02-20 23:11:15 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-02-20 23:11:15 --> 
+ERROR - 2023-02-20 23:18:40 --> Email: sendWithSmtp throwed ErrorException: fsockopen(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php:1863
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fsockopen(): ph...', 'C:\\xampp\\htdocs...', 1863, Array)
+#1 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1863): fsockopen('tls://mail.mxbu...', 465, 0, 'php_network_get...', 50)
+#2 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1777): CodeIgniter\Email\Email->SMTPConnect()
+#3 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1662): CodeIgniter\Email\Email->sendWithSmtp()
+#4 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1560): CodeIgniter\Email\Email->spoolEmail()
+#5 C:\xampp\htdocs\MX_Bull_International\app\Controllers\Home.php(222): CodeIgniter\Email\Email->send()
+#6 C:\xampp\htdocs\MX_Bull_International\system\CodeIgniter.php(927): App\Controllers\Home->enquiry_message()
+#7 C:\xampp\htdocs\MX_Bull_International\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\MX_Bull_International\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\MX_Bull_International\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-02-20 23:18:40 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-02-20 23:18:40 --> 
+ERROR - 2023-02-20 23:30:20 --> Email: sendWithSmtp throwed ErrorException: fsockopen(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php:1863
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fsockopen(): ph...', 'C:\\xampp\\htdocs...', 1863, Array)
+#1 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1863): fsockopen('tls://mail.mxbu...', 465, 0, 'php_network_get...', 50)
+#2 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1777): CodeIgniter\Email\Email->SMTPConnect()
+#3 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1662): CodeIgniter\Email\Email->sendWithSmtp()
+#4 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1560): CodeIgniter\Email\Email->spoolEmail()
+#5 C:\xampp\htdocs\MX_Bull_International\app\Controllers\Home.php(222): CodeIgniter\Email\Email->send()
+#6 C:\xampp\htdocs\MX_Bull_International\system\CodeIgniter.php(927): App\Controllers\Home->enquiry_message()
+#7 C:\xampp\htdocs\MX_Bull_International\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\MX_Bull_International\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\MX_Bull_International\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-02-20 23:30:20 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-02-20 23:30:20 --> 
+ERROR - 2023-02-20 23:32:05 --> Email: sendWithSmtp throwed ErrorException: fsockopen(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php:1863
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fsockopen(): ph...', 'C:\\xampp\\htdocs...', 1863, Array)
+#1 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1863): fsockopen('tls://mail.mxbu...', 465, 0, 'php_network_get...', 50)
+#2 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1777): CodeIgniter\Email\Email->SMTPConnect()
+#3 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1662): CodeIgniter\Email\Email->sendWithSmtp()
+#4 C:\xampp\htdocs\MX_Bull_International\system\Email\Email.php(1560): CodeIgniter\Email\Email->spoolEmail()
+#5 C:\xampp\htdocs\MX_Bull_International\app\Controllers\Home.php(222): CodeIgniter\Email\Email->send()
+#6 C:\xampp\htdocs\MX_Bull_International\system\CodeIgniter.php(927): App\Controllers\Home->enquiry_message()
+#7 C:\xampp\htdocs\MX_Bull_International\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\MX_Bull_International\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\MX_Bull_International\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-02-20 23:32:05 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-02-20 23:32:05 --> 

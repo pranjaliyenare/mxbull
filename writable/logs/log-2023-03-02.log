@@ -1,0 +1,25 @@
+ERROR - 2023-03-02 00:51:10 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-03-02 00:51:10 --> 220-ds.webcloudspeed.com ESMTP Exim 4.95 #2 Thu, 02 Mar 2023 12:21:04 +0530 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+hello: 250-ds.webcloudspeed.com Hello localhost [103.74.196.218]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-PIPE_CONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+from: 250 OK
+
+to: 550-Verification failed for <zxcxzc@cxv.gf>
+550-The mail server does not recognize zxcxzc@cxv.gf as a valid sender.
+550 Sender verify failed
+
+The following SMTP error was encountered: 550-Verification failed for <zxcxzc@cxv.gf>
+550-The mail server does not recognize zxcxzc@cxv.gf as a valid sender.
+550 Sender verify failed
+
+quit: 221 ds.webcloudspeed.com closing connection
+
